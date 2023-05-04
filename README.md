@@ -2,9 +2,11 @@
 Test your reflexes with Whack-a-Mole game built using JavaScript
 
 Game Description
+
 Whack-a-mole is a classic arcade game where the player aims to hit the moles as they pop up from their holes with a hammer. The objective is to hit as many moles as possible within a set time limit.
 
 Game Logic
+
 The game logic can be broken down into the following steps:
 
 
